@@ -1,0 +1,1001 @@
+state,date,product,profit,target_profit
+California,21/12/2020,power rack,1062,1322
+California,20/04/2020,power rack,756,1396
+Iowa,06/10/2023,rowing machine,1098,841
+Florida,16/01/2021,power rack,556,1108
+Kansas,17/05/2019,elliptical,1068,781
+New York,05/12/2021,airbike,1149,788
+Wisconsin,10/01/2020,rowing machine,1429,1189
+Colorado,19/03/2021,exercise bike,1065,1303
+Illinois,15/10/2019,squat rack,1430,1167
+Arkansas,25/09/2020,exercise bike,1469,1192
+Texas,15/07/2020,elliptical,959,1412
+Florida,27/02/2019,stepper,829,1121
+Texas,28/06/2023,treadmill,539,886
+California,23/12/2019,squat rack,724,1148
+Florida,29/09/2019,power rack,1098,712
+Oklahoma,02/09/2021,rowing machine,1285,809
+Alabama,17/09/2022,airbike,829,1271
+Kentucky,15/10/2020,stepper,1095,1149
+West Virginia,03/08/2019,elliptical,1433,825
+Illinois,11/01/2024,stepper,1012,1140
+California,23/09/2019,power rack,1015,1409
+Virginia,09/08/2022,exercise bike,1366,946
+Texas,01/04/2021,treadmill,1411,675
+Oregon,24/04/2023,treadmill,973,1171
+Washington,28/03/2019,treadmill,1493,741
+New York,20/01/2022,airbike,913,739
+California,01/04/2022,rowing machine,1357,1328
+Massachusetts,19/03/2022,airbike,1347,523
+West Virginia,20/01/2024,rowing machine,1435,790
+Nevada,04/06/2023,power rack,805,605
+California,02/01/2024,treadmill,545,1070
+Nevada,19/10/2021,squat rack,568,1149
+Iowa,17/07/2022,airbike,1325,1322
+Hawaii,22/12/2023,airbike,1072,676
+Texas,03/02/2023,power rack,1208,1023
+Kansas,20/10/2023,elliptical,1297,1011
+Texas,28/06/2022,airbike,1046,1369
+Nevada,27/12/2019,squat rack,1032,1098
+Georgia,16/01/2021,exercise bike,772,695
+Pennsylvania,15/05/2023,stepper,658,587
+Pennsylvania,09/04/2021,treadmill,926,1427
+Texas,05/01/2021,rowing machine,1103,1327
+Arizona,13/08/2019,squat rack,1348,1032
+Alabama,21/10/2022,treadmill,737,593
+New Jersey,31/07/2023,airbike,1055,1444
+Hawaii,11/01/2023,elliptical,1061,775
+Minnesota,23/07/2023,exercise bike,921,1384
+Texas,12/10/2023,treadmill,784,1142
+New York,19/08/2023,airbike,588,610
+Connecticut,18/12/2019,rowing machine,506,1293
+Louisiana,15/10/2022,stepper,860,805
+North Carolina,04/10/2023,power rack,1087,1053
+Mississippi,30/10/2020,power rack,812,871
+Virginia,02/06/2023,treadmill,678,1378
+California,23/03/2019,airbike,1347,701
+North Carolina,13/08/2023,airbike,1244,947
+Nebraska,05/02/2019,squat rack,1456,1102
+Texas,08/10/2020,squat rack,1207,985
+Florida,29/04/2023,power rack,603,553
+Texas,20/03/2021,exercise bike,1061,1341
+Virginia,06/05/2022,stepper,1298,1490
+California,02/01/2024,elliptical,1171,1417
+North Carolina,18/04/2021,airbike,1331,569
+Indiana,23/11/2021,rowing machine,916,1067
+Indiana,28/06/2023,airbike,728,576
+California,02/11/2022,rowing machine,1092,1214
+Minnesota,07/10/2023,airbike,936,616
+Florida,12/02/2022,airbike,950,516
+Illinois,04/10/2020,stepper,935,1061
+South Carolina,11/10/2022,stepper,782,520
+Texas,10/05/2023,power rack,559,1363
+Indiana,04/04/2024,stepper,773,687
+South Carolina,20/07/2023,treadmill,1018,544
+North Carolina,10/10/2023,rowing machine,1116,1441
+New York,13/03/2024,power rack,624,857
+New Mexico,08/08/2019,rowing machine,979,856
+Texas,24/12/2019,treadmill,664,612
+Florida,23/01/2020,squat rack,1331,1206
+Kentucky,28/01/2019,rowing machine,887,1303
+Virginia,12/09/2020,squat rack,903,670
+Oklahoma,22/05/2019,exercise bike,697,1467
+Arizona,01/12/2021,treadmill,1491,554
+California,21/10/2022,elliptical,969,975
+New York,22/04/2024,rowing machine,912,597
+Alabama,28/04/2019,elliptical,786,767
+North Carolina,09/09/2021,treadmill,1065,1329
+Montana,25/09/2019,exercise bike,1352,1444
+Nevada,23/01/2020,treadmill,1394,1350
+Texas,10/07/2023,treadmill,819,1482
+California,28/07/2021,rowing machine,1281,1145
+New York,17/01/2021,squat rack,619,1157
+Delaware,18/08/2020,squat rack,827,1238
+Kansas,16/03/2023,exercise bike,645,986
+Pennsylvania,07/09/2021,power rack,1371,1011
+North Carolina,12/04/2019,elliptical,613,1209
+New Jersey,30/05/2022,airbike,1349,1281
+Pennsylvania,03/10/2019,stepper,655,644
+Texas,17/05/2024,treadmill,1295,537
+New York,19/03/2020,stepper,1165,1337
+California,23/06/2021,rowing machine,1451,1365
+Pennsylvania,05/11/2019,squat rack,1011,648
+Virginia,15/05/2021,stepper,1367,1067
+Georgia,17/01/2019,rowing machine,742,675
+Georgia,04/09/2019,exercise bike,1143,820
+Florida,25/01/2020,airbike,1460,935
+Virginia,31/01/2021,elliptical,1432,1301
+Colorado,09/06/2022,power rack,1448,1499
+Kentucky,26/05/2020,stepper,586,668
+Kansas,30/11/2019,exercise bike,1085,1156
+California,15/05/2022,rowing machine,834,1262
+Georgia,31/03/2019,elliptical,1148,1249
+Iowa,07/11/2020,elliptical,622,1128
+Utah,09/02/2021,squat rack,1352,1481
+Alabama,09/03/2021,elliptical,684,1492
+Texas,11/08/2020,treadmill,807,1352
+West Virginia,01/04/2024,power rack,812,1498
+New Jersey,18/04/2024,squat rack,1153,1264
+California,26/03/2023,stepper,658,558
+Illinois,15/05/2024,treadmill,752,1314
+Texas,19/02/2020,treadmill,683,876
+California,08/06/2022,airbike,527,818
+New York,15/08/2023,power rack,652,1121
+District of Columbia,07/09/2020,airbike,1346,1172
+Oklahoma,07/06/2019,power rack,1433,1356
+Illinois,31/10/2019,exercise bike,604,511
+Texas,19/06/2021,rowing machine,1047,532
+Alabama,17/09/2022,stepper,1312,689
+Kansas,13/05/2021,exercise bike,1365,1260
+Arizona,08/12/2021,exercise bike,830,811
+North Dakota,20/08/2020,power rack,1446,865
+Minnesota,10/01/2021,power rack,623,1165
+Wisconsin,07/03/2022,squat rack,1245,1058
+California,27/02/2023,stepper,1476,1336
+New York,31/08/2023,rowing machine,895,1145
+Kentucky,20/12/2022,stepper,693,900
+Virginia,05/08/2023,stepper,1484,1047
+Kansas,11/06/2019,treadmill,1468,846
+Wisconsin,09/09/2023,treadmill,708,819
+South Dakota,24/11/2023,exercise bike,669,768
+Connecticut,07/06/2019,elliptical,1439,1087
+New Jersey,04/10/2020,exercise bike,689,568
+Louisiana,29/09/2019,elliptical,861,939
+Florida,10/07/2020,treadmill,1112,1245
+Arkansas,28/04/2021,airbike,678,571
+Florida,06/02/2024,elliptical,897,883
+Missouri,04/06/2022,treadmill,1241,938
+California,15/08/2020,elliptical,1164,618
+Georgia,14/01/2020,squat rack,564,595
+California,09/09/2023,exercise bike,1076,1169
+Kansas,18/02/2023,airbike,950,1049
+Virginia,30/11/2021,power rack,968,508
+Illinois,21/07/2023,treadmill,654,944
+Indiana,30/11/2022,power rack,1354,1233
+Washington,03/06/2022,squat rack,507,1417
+Washington,06/02/2022,elliptical,842,761
+California,01/03/2021,treadmill,649,704
+Pennsylvania,16/02/2021,power rack,1132,967
+Oklahoma,07/01/2019,treadmill,782,963
+Kentucky,16/07/2023,treadmill,804,1383
+Kansas,13/02/2022,rowing machine,1019,907
+Texas,11/11/2022,exercise bike,691,638
+Florida,25/08/2021,airbike,739,1145
+Arizona,13/05/2021,squat rack,1173,606
+Oklahoma,09/01/2023,treadmill,1440,1371
+California,11/01/2022,squat rack,790,617
+Illinois,13/10/2022,rowing machine,711,857
+Ohio,10/07/2023,airbike,553,1102
+Alabama,02/10/2023,exercise bike,1236,623
+New York,22/02/2021,stepper,829,809
+Nebraska,30/04/2020,stepper,822,767
+Indiana,26/01/2020,power rack,1308,1281
+California,03/04/2021,elliptical,870,543
+South Dakota,12/11/2020,rowing machine,1285,1037
+Indiana,27/02/2019,squat rack,532,960
+Massachusetts,15/07/2020,stepper,1201,1002
+Texas,14/06/2022,airbike,1042,1037
+Arizona,09/10/2021,exercise bike,529,562
+Louisiana,18/11/2021,treadmill,1181,535
+Ohio,19/04/2024,squat rack,675,932
+Maryland,05/01/2022,squat rack,1313,626
+Arizona,08/02/2024,stepper,788,934
+Pennsylvania,03/04/2019,exercise bike,664,870
+New York,13/08/2019,treadmill,589,1276
+District of Columbia,21/04/2023,treadmill,1076,1347
+Virginia,01/09/2023,exercise bike,1455,562
+District of Columbia,16/07/2021,treadmill,1444,1433
+Oklahoma,06/10/2021,rowing machine,953,1441
+Ohio,31/05/2020,airbike,701,971
+Illinois,04/02/2022,exercise bike,1174,1500
+Massachusetts,02/05/2024,rowing machine,639,553
+Massachusetts,19/12/2023,elliptical,844,784
+Florida,27/07/2020,exercise bike,1201,717
+Alabama,13/07/2019,rowing machine,978,567
+Indiana,18/05/2020,exercise bike,823,605
+California,17/08/2020,power rack,1322,1099
+Virginia,17/08/2022,power rack,836,677
+Pennsylvania,26/01/2019,power rack,1326,513
+Texas,26/07/2020,rowing machine,667,1264
+California,02/04/2019,airbike,1156,736
+Arizona,14/04/2024,stepper,813,625
+New Jersey,25/02/2024,squat rack,818,1217
+Ohio,26/04/2023,exercise bike,909,944
+South Dakota,17/09/2020,rowing machine,1009,1166
+Indiana,17/02/2023,airbike,698,1470
+North Carolina,12/02/2020,power rack,831,544
+California,05/01/2022,power rack,1215,1402
+Texas,25/03/2021,stepper,1280,703
+Texas,23/06/2021,power rack,1431,1245
+Florida,06/11/2022,rowing machine,1100,1062
+Virginia,21/10/2020,power rack,604,915
+New Jersey,23/08/2021,stepper,950,1478
+Texas,15/04/2022,power rack,1254,1262
+New York,19/06/2020,rowing machine,1143,1090
+Texas,11/03/2022,stepper,691,1145
+Alabama,06/03/2024,elliptical,539,1466
+Tennessee,28/03/2023,exercise bike,1377,1441
+Georgia,19/05/2019,treadmill,1251,1195
+Washington,07/05/2021,rowing machine,551,873
+Florida,15/10/2020,squat rack,1111,1359
+Kentucky,18/05/2021,treadmill,1479,1212
+Arizona,30/11/2019,treadmill,653,716
+California,29/12/2023,squat rack,517,827
+Michigan,04/11/2022,treadmill,1217,1464
+Virginia,05/07/2022,airbike,1254,1463
+Tennessee,18/02/2019,treadmill,619,699
+Kansas,25/11/2023,power rack,1442,1010
+Texas,03/08/2023,elliptical,1020,500
+Washington,09/07/2019,treadmill,686,789
+North Carolina,26/01/2021,power rack,1360,776
+Washington,30/05/2024,stepper,1275,707
+Wisconsin,17/08/2019,airbike,1035,635
+Colorado,06/06/2019,elliptical,1361,788
+North Carolina,31/03/2023,elliptical,525,786
+Ohio,17/02/2021,rowing machine,1023,1022
+California,22/08/2023,elliptical,1017,1294
+New York,01/09/2019,stepper,525,637
+Oklahoma,22/12/2021,rowing machine,1095,752
+California,14/08/2021,elliptical,785,946
+Arizona,08/10/2021,exercise bike,1303,1478
+Pennsylvania,14/11/2023,elliptical,966,1396
+Indiana,27/06/2022,elliptical,1198,1360
+Louisiana,19/02/2023,elliptical,1070,1287
+Colorado,24/06/2020,squat rack,1131,1480
+California,20/07/2021,airbike,1269,1372
+Ohio,23/09/2021,rowing machine,1151,655
+Illinois,23/02/2020,power rack,984,1486
+District of Columbia,30/05/2020,stepper,816,1048
+District of Columbia,07/02/2023,stepper,1355,885
+New York,26/04/2022,rowing machine,824,1446
+Arizona,11/06/2022,squat rack,1357,1283
+Kentucky,07/11/2023,stepper,1120,931
+South Carolina,16/04/2020,exercise bike,1202,709
+Kansas,08/03/2022,stepper,1228,560
+Oregon,14/03/2024,treadmill,1192,1491
+California,28/08/2020,treadmill,1207,1415
+Oklahoma,10/12/2023,stepper,886,530
+Connecticut,23/10/2020,elliptical,1370,1027
+Washington,18/06/2019,exercise bike,557,1252
+Virginia,11/08/2019,airbike,640,690
+Ohio,16/03/2019,rowing machine,833,1283
+New York,15/02/2024,power rack,1133,1341
+North Carolina,03/07/2022,power rack,1489,1040
+Florida,16/03/2021,treadmill,905,667
+Virginia,23/01/2023,squat rack,929,1184
+Nebraska,03/01/2020,stepper,1058,835
+Missouri,08/05/2022,power rack,554,1432
+Georgia,04/02/2022,elliptical,747,1389
+Indiana,21/04/2019,exercise bike,1019,1046
+Oregon,19/10/2020,elliptical,1300,1484
+Idaho,22/03/2023,squat rack,783,1361
+California,28/05/2023,power rack,508,838
+New York,15/10/2020,treadmill,613,693
+Kansas,19/01/2021,squat rack,619,1336
+Texas,18/12/2020,exercise bike,1013,906
+Pennsylvania,25/10/2021,squat rack,674,1471
+Missouri,11/05/2020,elliptical,850,759
+Florida,20/05/2021,elliptical,1168,867
+Ohio,12/11/2020,exercise bike,1189,666
+North Carolina,30/12/2019,exercise bike,655,1256
+District of Columbia,26/03/2021,squat rack,913,1058
+Mississippi,04/05/2022,squat rack,1232,696
+Florida,01/11/2022,stepper,722,747
+Texas,12/03/2020,stepper,1046,1451
+California,07/12/2021,stepper,708,963
+Florida,15/04/2019,power rack,710,943
+Illinois,09/04/2021,airbike,825,986
+Louisiana,18/10/2019,airbike,1317,1449
+Montana,25/08/2022,airbike,1006,517
+California,03/09/2022,stepper,1210,1092
+Georgia,23/09/2021,rowing machine,1171,986
+Virginia,26/07/2020,elliptical,638,830
+Texas,18/12/2020,elliptical,1025,1424
+Texas,21/03/2023,elliptical,721,1001
+Texas,28/10/2021,treadmill,1470,762
+Virginia,14/04/2020,power rack,503,566
+North Carolina,09/12/2019,stepper,1114,1211
+Virginia,13/05/2023,squat rack,670,1400
+Arizona,27/06/2020,stepper,1107,844
+Washington,31/05/2023,exercise bike,946,552
+California,09/11/2021,stepper,1109,1025
+Texas,03/11/2022,exercise bike,1259,638
+Texas,09/02/2021,power rack,1035,841
+Maryland,12/06/2020,stepper,939,1356
+New York,22/07/2019,elliptical,579,614
+California,14/12/2019,treadmill,589,880
+Indiana,19/05/2024,power rack,1443,1251
+Arizona,21/04/2020,power rack,573,900
+Texas,14/04/2021,treadmill,635,628
+Illinois,28/06/2021,elliptical,1400,917
+District of Columbia,04/12/2021,airbike,1224,872
+Texas,16/02/2020,rowing machine,1465,1063
+New York,27/10/2020,exercise bike,912,1301
+District of Columbia,31/03/2023,treadmill,610,808
+North Carolina,19/09/2019,rowing machine,1308,1122
+Pennsylvania,06/12/2021,exercise bike,1154,735
+Nevada,23/07/2023,power rack,956,789
+California,06/05/2019,power rack,1218,932
+Texas,15/05/2021,treadmill,1039,1302
+Arkansas,09/08/2019,exercise bike,1254,1458
+Louisiana,29/05/2019,treadmill,1227,1474
+South Carolina,10/06/2019,airbike,1422,1139
+South Carolina,10/06/2019,rowing machine,589,1017
+New York,08/10/2023,squat rack,1104,939
+Texas,02/12/2021,squat rack,586,1192
+Michigan,15/03/2020,airbike,990,889
+Connecticut,31/10/2019,rowing machine,785,1356
+Arizona,09/06/2019,airbike,1288,1174
+Alabama,15/10/2019,treadmill,758,1443
+California,04/12/2019,squat rack,958,871
+New York,01/12/2021,exercise bike,1260,900
+Missouri,01/08/2022,elliptical,1145,869
+Florida,09/05/2019,squat rack,1201,1169
+South Dakota,17/02/2021,power rack,524,868
+Colorado,05/06/2021,stepper,1250,861
+Florida,03/05/2019,airbike,901,545
+Texas,30/07/2021,rowing machine,546,991
+Alabama,15/10/2019,exercise bike,1349,676
+Minnesota,29/06/2023,squat rack,979,808
+Washington,09/09/2023,stepper,949,524
+Ohio,30/04/2023,airbike,1387,720
+Pennsylvania,29/08/2023,exercise bike,960,1056
+Ohio,29/06/2021,stepper,1360,1219
+Colorado,13/09/2023,squat rack,789,630
+Delaware,29/06/2021,power rack,1419,1306
+Illinois,13/10/2019,elliptical,777,1434
+Arizona,09/12/2021,power rack,1253,561
+Missouri,22/08/2019,squat rack,1333,890
+Virginia,03/09/2021,exercise bike,1255,1233
+Georgia,14/02/2021,rowing machine,664,767
+Texas,26/03/2022,squat rack,1283,1188
+Florida,19/01/2019,rowing machine,1169,944
+West Virginia,01/04/2024,elliptical,1398,954
+Tennessee,30/07/2021,rowing machine,1488,754
+Hawaii,27/09/2023,power rack,963,1342
+Ohio,18/03/2022,power rack,547,1491
+New York,05/05/2022,power rack,1230,1207
+Minnesota,07/10/2020,airbike,1235,1068
+Missouri,08/06/2022,exercise bike,1024,701
+California,13/03/2023,stepper,798,1331
+Massachusetts,06/03/2020,stepper,894,1351
+California,10/04/2020,elliptical,925,974
+Pennsylvania,06/11/2021,power rack,697,1089
+District of Columbia,12/09/2021,rowing machine,1182,1216
+Oklahoma,21/03/2024,stepper,1132,1386
+Tennessee,12/10/2021,stepper,520,999
+District of Columbia,27/03/2024,elliptical,795,1076
+Michigan,24/12/2021,treadmill,826,801
+Pennsylvania,16/10/2021,squat rack,779,859
+Arizona,06/05/2022,squat rack,1488,611
+Colorado,24/07/2021,squat rack,958,952
+Ohio,13/05/2022,exercise bike,1309,866
+Pennsylvania,02/05/2020,stepper,1077,1243
+Illinois,21/12/2021,rowing machine,996,1189
+North Carolina,24/03/2019,exercise bike,1197,1121
+Kansas,25/09/2020,treadmill,1378,1090
+Florida,07/10/2021,squat rack,1240,1137
+Florida,19/10/2023,stepper,1208,770
+Idaho,27/01/2022,power rack,961,1483
+Texas,02/02/2023,squat rack,977,824
+North Carolina,05/08/2019,rowing machine,660,1002
+Ohio,03/11/2022,treadmill,1148,1471
+Illinois,10/08/2019,exercise bike,1184,957
+Ohio,05/08/2022,exercise bike,857,647
+Washington,19/03/2024,elliptical,904,1224
+District of Columbia,27/11/2021,stepper,1298,586
+Nebraska,25/01/2023,elliptical,1133,919
+California,14/10/2020,airbike,1416,776
+Massachusetts,26/07/2020,airbike,1340,950
+Kentucky,05/08/2021,airbike,752,884
+Washington,24/12/2021,elliptical,1318,972
+Ohio,03/03/2024,power rack,1332,1163
+Ohio,17/02/2020,airbike,1288,1200
+Arizona,14/12/2021,power rack,907,773
+New York,25/04/2019,power rack,779,697
+Kansas,24/03/2023,airbike,1409,1351
+North Dakota,11/05/2019,airbike,1472,1191
+Ohio,09/11/2022,treadmill,549,782
+Oklahoma,12/11/2022,squat rack,1039,1061
+California,25/12/2020,exercise bike,963,517
+Florida,20/03/2023,power rack,613,1452
+Michigan,31/03/2020,stepper,891,1002
+Missouri,24/02/2024,squat rack,592,933
+Missouri,24/08/2020,elliptical,903,638
+Pennsylvania,31/10/2019,treadmill,1276,1108
+Maryland,25/09/2022,treadmill,1331,1407
+Hawaii,26/10/2023,power rack,1480,1297
+Florida,25/05/2023,power rack,1375,591
+New Jersey,21/04/2024,airbike,1492,623
+Missouri,23/03/2024,squat rack,1180,559
+California,13/08/2022,treadmill,1294,761
+Arizona,27/04/2020,squat rack,1257,530
+Missouri,08/02/2019,rowing machine,535,532
+New Jersey,02/03/2023,exercise bike,842,1406
+Minnesota,28/03/2023,treadmill,598,808
+California,17/01/2024,power rack,584,1287
+Texas,02/03/2021,stepper,724,1158
+Kansas,10/04/2023,stepper,671,1170
+Florida,28/06/2022,treadmill,594,1207
+Texas,23/05/2021,elliptical,1458,1199
+Illinois,13/10/2019,rowing machine,1289,673
+Georgia,18/10/2022,treadmill,648,1464
+California,19/11/2020,rowing machine,632,579
+District of Columbia,09/05/2019,elliptical,1313,982
+Florida,05/10/2021,airbike,1022,634
+Florida,02/05/2021,exercise bike,1327,1224
+Texas,30/06/2020,power rack,1419,890
+Texas,16/06/2022,treadmill,1436,1246
+Alabama,08/01/2020,treadmill,1490,1435
+Tennessee,27/03/2023,squat rack,889,782
+District of Columbia,24/03/2022,rowing machine,809,1412
+New Jersey,02/04/2019,squat rack,1418,1344
+New York,11/09/2023,elliptical,827,1462
+New Jersey,18/09/2019,exercise bike,1268,1069
+Montana,22/07/2021,treadmill,733,596
+Oklahoma,16/05/2024,treadmill,1303,780
+New York,31/05/2022,rowing machine,1065,1211
+District of Columbia,24/05/2023,stepper,962,1231
+Ohio,02/04/2020,airbike,1322,1267
+California,01/10/2022,squat rack,577,671
+North Carolina,20/06/2022,exercise bike,547,863
+Florida,01/04/2021,exercise bike,1470,1335
+New York,06/10/2019,airbike,923,1003
+Louisiana,17/07/2022,airbike,1232,589
+Florida,10/03/2021,airbike,507,1372
+Missouri,29/10/2020,squat rack,1050,914
+Washington,05/08/2020,power rack,1127,1384
+New Jersey,05/05/2019,elliptical,1036,1151
+California,22/08/2022,stepper,990,1264
+California,07/12/2020,rowing machine,797,1499
+Connecticut,25/05/2021,squat rack,1210,1052
+California,07/01/2024,power rack,602,819
+Virginia,18/03/2022,power rack,935,1175
+Maryland,04/05/2024,stepper,1130,900
+California,20/10/2022,stepper,1347,1111
+California,08/04/2020,elliptical,1366,1109
+New Mexico,10/10/2019,exercise bike,865,1172
+California,22/02/2020,treadmill,845,650
+New York,25/05/2023,squat rack,1390,930
+Connecticut,29/01/2020,squat rack,973,903
+Maryland,29/07/2022,elliptical,1333,1430
+District of Columbia,01/03/2024,power rack,1276,1476
+California,08/06/2021,elliptical,764,649
+South Carolina,27/01/2024,airbike,1323,852
+Ohio,02/07/2020,squat rack,1387,588
+New York,06/08/2021,rowing machine,1183,651
+Louisiana,06/09/2022,power rack,704,1214
+Arkansas,14/04/2020,squat rack,500,1178
+Virginia,16/01/2020,exercise bike,716,918
+Texas,12/02/2024,airbike,1422,1298
+Texas,22/01/2023,airbike,1412,1487
+Massachusetts,20/02/2019,airbike,962,529
+District of Columbia,17/05/2022,stepper,711,871
+North Dakota,27/11/2020,treadmill,1207,1007
+New Jersey,02/03/2020,treadmill,696,667
+Florida,01/05/2020,treadmill,590,844
+Ohio,22/02/2020,airbike,945,662
+California,20/04/2019,elliptical,1212,1174
+Minnesota,08/03/2021,exercise bike,1213,1407
+Ohio,25/09/2023,squat rack,577,1141
+California,18/11/2021,exercise bike,794,826
+Ohio,16/12/2022,elliptical,975,676
+New Jersey,25/09/2021,stepper,1309,548
+Texas,12/11/2020,squat rack,528,739
+California,06/08/2022,treadmill,770,1316
+Texas,17/03/2020,treadmill,802,788
+Iowa,12/05/2021,exercise bike,544,1297
+Georgia,19/02/2023,stepper,1302,671
+Ohio,31/01/2019,stepper,596,1005
+Florida,15/05/2021,squat rack,576,636
+Texas,21/11/2022,elliptical,1230,751
+Florida,11/12/2019,airbike,1493,785
+New York,18/11/2021,elliptical,1381,1243
+Iowa,09/09/2019,stepper,1443,1341
+California,06/01/2021,rowing machine,843,545
+Indiana,29/05/2019,power rack,515,1071
+Missouri,07/06/2021,stepper,1178,875
+Florida,24/10/2023,elliptical,761,1161
+Colorado,10/03/2020,power rack,836,512
+Washington,13/01/2022,rowing machine,1143,681
+Florida,19/01/2019,stepper,1038,678
+Connecticut,12/10/2023,airbike,655,1271
+Maryland,30/08/2023,treadmill,984,515
+South Carolina,22/11/2023,airbike,693,596
+Virginia,31/05/2023,airbike,970,1074
+West Virginia,24/04/2019,stepper,1379,949
+Massachusetts,18/10/2022,stepper,941,624
+New Hampshire,10/05/2023,stepper,1331,1260
+Washington,19/04/2024,elliptical,1301,967
+Arizona,25/02/2019,squat rack,982,654
+Texas,07/07/2022,airbike,764,577
+Michigan,03/06/2019,exercise bike,1400,1107
+California,08/02/2020,power rack,1453,570
+Florida,28/01/2020,squat rack,832,543
+Idaho,04/08/2021,airbike,595,883
+Florida,07/11/2022,airbike,766,750
+New Jersey,27/02/2020,airbike,561,1025
+New Mexico,12/04/2020,rowing machine,1200,538
+Pennsylvania,30/01/2019,elliptical,770,753
+Ohio,05/01/2019,treadmill,1059,1268
+Virginia,03/12/2023,elliptical,776,660
+North Carolina,25/02/2023,squat rack,941,1030
+Texas,17/06/2021,rowing machine,990,625
+Nevada,27/12/2021,power rack,1322,1045
+Georgia,02/02/2024,stepper,924,892
+Florida,16/05/2023,power rack,671,928
+Florida,13/07/2021,stepper,847,1019
+Pennsylvania,26/05/2020,elliptical,1359,701
+Texas,07/12/2023,squat rack,597,1175
+Kansas,25/10/2021,airbike,780,965
+Wisconsin,26/01/2019,rowing machine,1385,844
+Minnesota,18/07/2019,treadmill,1043,1222
+Florida,05/08/2022,elliptical,1386,802
+Ohio,05/01/2020,exercise bike,534,793
+Virginia,06/06/2023,exercise bike,856,1256
+Texas,27/10/2019,rowing machine,1208,1081
+Texas,16/10/2023,exercise bike,917,854
+Arizona,18/01/2020,power rack,1189,662
+Alabama,01/07/2019,airbike,1396,1295
+Iowa,20/06/2022,squat rack,908,1022
+Missouri,21/04/2024,power rack,760,1054
+North Carolina,15/03/2024,elliptical,816,734
+California,15/05/2023,stepper,1445,632
+Kentucky,30/01/2019,rowing machine,1377,1485
+North Dakota,07/04/2021,airbike,852,783
+Georgia,27/09/2022,stepper,1246,1484
+South Carolina,10/03/2024,squat rack,1143,988
+California,15/02/2020,stepper,891,1379
+Indiana,21/12/2023,power rack,504,1236
+Texas,20/04/2022,exercise bike,813,1117
+California,26/12/2023,exercise bike,1028,1043
+New York,12/04/2024,power rack,1168,1196
+Colorado,13/06/2019,elliptical,668,1368
+Colorado,28/06/2020,exercise bike,1228,1165
+Kentucky,23/02/2019,elliptical,1060,1116
+Florida,24/07/2021,exercise bike,1181,1353
+District of Columbia,26/09/2019,exercise bike,1289,1400
+Florida,13/02/2019,airbike,950,1252
+Florida,09/05/2021,stepper,928,1458
+Utah,21/03/2020,stepper,1365,1369
+Florida,08/10/2022,exercise bike,1146,1387
+Louisiana,26/01/2020,power rack,870,1348
+North Carolina,21/03/2019,rowing machine,646,1162
+Virginia,26/05/2024,elliptical,1139,966
+Alabama,25/03/2023,treadmill,1454,555
+Texas,09/10/2019,elliptical,871,993
+Iowa,11/03/2019,exercise bike,990,1114
+Minnesota,18/07/2022,stepper,585,1232
+Louisiana,12/02/2019,power rack,692,1100
+Colorado,02/06/2022,treadmill,1409,1208
+Florida,16/10/2019,rowing machine,1479,513
+Florida,07/03/2022,airbike,918,1494
+Louisiana,04/03/2020,power rack,1413,1203
+Florida,05/12/2021,airbike,880,724
+District of Columbia,24/10/2023,stepper,569,947
+Florida,25/12/2019,elliptical,1254,734
+North Carolina,13/06/2019,airbike,721,1106
+Missouri,09/04/2020,power rack,576,890
+Florida,07/12/2020,exercise bike,671,1087
+California,07/11/2023,squat rack,594,620
+Wisconsin,04/05/2022,power rack,725,750
+New York,27/07/2023,stepper,1206,579
+California,11/09/2022,treadmill,1142,1100
+Washington,03/09/2023,power rack,626,780
+Colorado,06/12/2021,airbike,815,741
+New York,22/02/2023,stepper,1116,831
+Pennsylvania,12/03/2021,squat rack,1080,741
+Arizona,29/10/2021,exercise bike,1452,721
+Utah,20/01/2019,exercise bike,1307,1290
+California,16/02/2020,stepper,1326,771
+Ohio,10/05/2020,treadmill,1286,1483
+California,17/12/2021,rowing machine,526,993
+Texas,23/11/2023,airbike,966,664
+Georgia,19/12/2023,treadmill,1048,1340
+Texas,19/11/2021,stepper,1223,1369
+Florida,25/11/2022,exercise bike,681,594
+Texas,02/04/2021,airbike,1463,1239
+Texas,28/05/2021,exercise bike,1158,666
+New York,03/04/2021,airbike,557,1407
+Utah,24/05/2024,rowing machine,858,546
+Florida,18/07/2023,rowing machine,874,1179
+Ohio,26/09/2020,squat rack,575,755
+Ohio,13/10/2019,power rack,1410,712
+Texas,20/10/2021,stepper,522,607
+New York,13/09/2022,squat rack,960,605
+California,14/08/2022,airbike,683,1110
+Mississippi,24/05/2020,power rack,968,906
+Virginia,09/08/2020,rowing machine,526,1191
+Georgia,30/12/2020,airbike,588,762
+West Virginia,07/04/2023,stepper,608,895
+North Carolina,18/11/2023,treadmill,696,1260
+Missouri,08/04/2019,treadmill,911,1278
+Nevada,11/06/2023,stepper,736,1327
+Florida,27/03/2022,rowing machine,1079,1163
+Iowa,15/05/2020,elliptical,1122,907
+Texas,26/01/2024,elliptical,534,703
+California,19/02/2019,power rack,1279,1361
+Texas,24/03/2020,airbike,946,625
+North Carolina,12/03/2019,squat rack,777,664
+Arizona,02/12/2022,power rack,841,1293
+Florida,08/07/2021,elliptical,1306,1326
+Connecticut,03/01/2020,power rack,1491,675
+California,03/09/2023,squat rack,1181,1292
+California,04/07/2023,airbike,1243,879
+Oklahoma,02/09/2022,power rack,1393,1366
+Florida,09/05/2022,squat rack,1138,702
+Washington,03/06/2020,power rack,1493,600
+Maryland,25/11/2022,stepper,1402,612
+Texas,20/04/2021,airbike,892,962
+Texas,28/11/2022,stepper,1478,1116
+West Virginia,27/01/2021,stepper,603,852
+Massachusetts,11/07/2023,power rack,919,1036
+Florida,11/12/2023,exercise bike,783,1408
+Louisiana,22/04/2020,power rack,645,709
+Tennessee,16/03/2021,exercise bike,1413,1196
+Georgia,22/11/2022,exercise bike,633,526
+Virginia,08/11/2019,squat rack,1418,795
+Florida,21/08/2023,treadmill,1444,1221
+Delaware,08/06/2019,elliptical,1059,924
+Minnesota,26/11/2019,stepper,521,923
+Michigan,28/01/2024,exercise bike,1264,544
+Louisiana,02/06/2021,squat rack,881,800
+Florida,02/08/2019,exercise bike,720,733
+Louisiana,29/01/2022,treadmill,846,559
+Missouri,15/06/2021,treadmill,1382,1496
+Kansas,09/08/2019,stepper,976,1350
+California,11/12/2021,exercise bike,767,1129
+Missouri,28/12/2019,rowing machine,1163,535
+Maryland,02/02/2021,stepper,1270,633
+California,11/12/2021,rowing machine,1023,709
+Connecticut,24/08/2023,airbike,1342,1320
+Pennsylvania,29/11/2023,exercise bike,512,734
+Connecticut,15/03/2022,elliptical,759,958
+New Mexico,25/11/2021,airbike,1420,796
+Virginia,10/10/2019,rowing machine,1337,514
+Texas,04/08/2020,airbike,1458,1326
+Texas,25/04/2022,rowing machine,506,1421
+Arizona,18/09/2019,airbike,932,557
+California,22/09/2021,elliptical,1420,698
+Florida,23/12/2021,airbike,1462,1342
+Georgia,26/08/2020,elliptical,1453,1383
+Montana,15/12/2023,exercise bike,1007,681
+California,17/03/2021,squat rack,717,964
+Texas,10/06/2023,squat rack,1290,797
+Tennessee,08/09/2022,rowing machine,1486,594
+California,04/01/2022,rowing machine,1383,1046
+Kentucky,30/03/2023,treadmill,1244,1371
+Minnesota,18/05/2022,elliptical,1169,982
+Iowa,24/03/2024,rowing machine,612,1393
+California,19/08/2019,exercise bike,1458,779
+New York,25/09/2019,squat rack,1301,1420
+Delaware,20/06/2020,exercise bike,856,1056
+Mississippi,17/06/2021,treadmill,789,1365
+Ohio,26/01/2020,exercise bike,607,699
+Texas,20/09/2022,power rack,1221,1089
+Texas,05/07/2021,squat rack,1149,1330
+New York,20/06/2022,stepper,1348,1154
+Alabama,22/07/2022,stepper,666,812
+Hawaii,17/10/2019,stepper,900,542
+Minnesota,30/07/2023,rowing machine,514,1427
+Virginia,03/10/2019,squat rack,822,1327
+Georgia,29/05/2023,rowing machine,1329,1496
+Missouri,04/02/2019,rowing machine,1221,649
+California,23/02/2022,power rack,568,667
+New York,13/08/2023,airbike,1082,872
+Maryland,05/03/2023,rowing machine,551,546
+Louisiana,28/11/2019,treadmill,1076,972
+Indiana,17/08/2019,exercise bike,1011,616
+Florida,22/08/2019,elliptical,1408,1440
+Pennsylvania,29/04/2020,treadmill,1390,1168
+Kentucky,25/05/2021,squat rack,753,1005
+Florida,09/05/2019,rowing machine,877,736
+Florida,07/02/2019,squat rack,1389,1471
+Texas,08/09/2023,power rack,686,1373
+Arizona,18/04/2020,stepper,979,1044
+Kansas,03/05/2021,rowing machine,1220,1039
+Texas,01/10/2022,squat rack,669,944
+Ohio,10/01/2023,stepper,619,1217
+Nevada,19/06/2022,treadmill,1125,1475
+Ohio,11/09/2023,treadmill,970,702
+Ohio,15/01/2023,squat rack,905,1241
+Georgia,05/10/2019,airbike,1078,671
+Florida,03/04/2021,airbike,538,998
+Texas,15/05/2021,stepper,851,1194
+Nevada,07/08/2019,elliptical,1022,875
+Florida,10/05/2022,rowing machine,1125,960
+Tennessee,17/04/2024,stepper,1020,952
+Virginia,15/04/2024,squat rack,944,703
+Florida,21/12/2019,stepper,1005,1305
+California,29/04/2021,squat rack,1147,907
+Tennessee,27/06/2019,elliptical,1084,1192
+Pennsylvania,19/01/2022,treadmill,918,1188
+Ohio,28/02/2019,squat rack,841,1032
+California,24/07/2020,airbike,833,1341
+Idaho,22/04/2024,treadmill,968,1285
+Nevada,04/08/2021,rowing machine,1256,1315
+California,26/06/2022,stepper,1424,1254
+New Jersey,28/10/2020,rowing machine,1232,1193
+Iowa,13/06/2021,power rack,541,910
+Texas,19/12/2019,squat rack,1445,872
+North Carolina,02/08/2023,power rack,1255,816
+California,12/01/2022,exercise bike,591,738
+Oklahoma,10/03/2023,rowing machine,1282,1102
+District of Columbia,07/07/2019,squat rack,1470,943
+South Carolina,18/05/2023,stepper,661,745
+California,25/04/2019,rowing machine,1311,1382
+Delaware,11/03/2022,squat rack,996,1361
+Wisconsin,30/03/2024,stepper,1412,1142
+Missouri,12/05/2021,exercise bike,855,610
+Texas,19/01/2024,elliptical,1137,1169
+Georgia,25/07/2020,stepper,1000,1061
+District of Columbia,12/01/2020,exercise bike,556,791
+Georgia,07/08/2020,elliptical,1423,1201
+Alabama,07/10/2021,treadmill,625,1447
+Texas,09/10/2020,elliptical,649,651
+Ohio,11/12/2020,power rack,889,1450
+Texas,18/08/2020,exercise bike,1209,616
+Louisiana,30/09/2023,stepper,599,1300
+Arizona,22/10/2020,rowing machine,749,1409
+District of Columbia,04/06/2023,stepper,1127,841
+Florida,16/06/2021,airbike,688,697
+Indiana,07/03/2024,airbike,871,976
+Ohio,22/12/2022,treadmill,1245,888
+Washington,29/01/2020,treadmill,1082,542
+California,02/04/2022,airbike,783,591
+Michigan,26/01/2020,rowing machine,957,500
+Texas,28/06/2021,power rack,600,1226
+Michigan,18/05/2020,squat rack,1395,874
+Virginia,18/08/2022,power rack,751,660
+Montana,20/05/2020,elliptical,809,1440
+Connecticut,22/04/2020,squat rack,1363,1332
+California,28/07/2021,treadmill,976,1099
+North Carolina,04/01/2024,treadmill,759,818
+California,15/08/2022,airbike,1014,1248
+Virginia,09/10/2022,treadmill,1483,1075
+Colorado,28/10/2023,power rack,1405,728
+Texas,24/05/2021,stepper,712,1404
+Massachusetts,09/08/2022,treadmill,1020,809
+Washington,05/02/2024,treadmill,1220,1093
+California,07/04/2021,airbike,1198,987
+District of Columbia,30/10/2023,elliptical,1204,825
+District of Columbia,11/11/2023,rowing machine,787,1280
+New York,10/11/2021,elliptical,877,719
+Arizona,04/06/2019,squat rack,1057,1334
+Wisconsin,11/03/2023,exercise bike,875,906
+North Carolina,20/03/2019,stepper,1433,816
+District of Columbia,05/09/2021,stepper,787,1089
+Texas,01/01/2021,power rack,944,686
+Texas,26/01/2024,squat rack,809,892
+New Jersey,23/04/2021,elliptical,603,926
+Arizona,05/07/2020,exercise bike,725,1245
+Texas,13/06/2022,rowing machine,576,1154
+Arizona,04/02/2020,treadmill,1053,1145
+Minnesota,30/07/2021,treadmill,1071,1304
+Texas,28/05/2024,elliptical,708,1151
+Ohio,13/02/2020,exercise bike,1133,1017
+Oregon,09/07/2020,rowing machine,1389,501
+Washington,10/03/2019,exercise bike,518,1055
+District of Columbia,23/12/2020,stepper,1203,628
+Florida,05/01/2021,rowing machine,909,625
+Texas,16/01/2022,rowing machine,1074,1362
+Florida,26/05/2020,power rack,1004,1380
+Texas,17/07/2023,treadmill,958,1033
+Tennessee,15/07/2022,rowing machine,1341,507
+Kentucky,25/07/2020,rowing machine,1139,756
+Connecticut,16/04/2022,elliptical,1003,1183
+California,18/07/2019,treadmill,1461,805
+Michigan,11/11/2022,rowing machine,1090,762
+Florida,17/06/2020,treadmill,1395,1447
+Alaska,16/01/2024,elliptical,1318,652
+Virginia,22/04/2020,power rack,1340,899
+Oklahoma,12/04/2020,power rack,953,1070
+Indiana,19/02/2020,treadmill,966,885
+Missouri,29/01/2020,treadmill,838,923
+District of Columbia,16/03/2022,treadmill,616,953
+Pennsylvania,20/08/2019,power rack,653,1176
+Texas,05/02/2023,exercise bike,1496,783
+California,27/05/2020,exercise bike,625,745
+Florida,23/11/2023,airbike,1099,1062
+Nebraska,02/05/2024,squat rack,1313,1212
+Texas,22/07/2019,airbike,998,909
+California,26/10/2023,squat rack,1345,569
+New York,04/03/2022,airbike,968,1056
+North Carolina,12/06/2021,power rack,1136,1483
+New York,13/02/2024,squat rack,1133,667
+New Jersey,22/02/2023,power rack,1239,535
+California,02/06/2020,treadmill,1144,976
+California,14/03/2022,power rack,646,1171
+Minnesota,07/10/2019,squat rack,715,825
+Texas,12/02/2021,elliptical,557,1410
+California,24/01/2022,stepper,1049,943
+Kentucky,13/01/2023,stepper,1007,1043
+Alabama,29/09/2023,rowing machine,1153,521
+Texas,01/09/2022,squat rack,930,1262
+California,12/05/2021,rowing machine,576,1390
+North Carolina,10/05/2020,exercise bike,1430,1307
+California,24/01/2024,power rack,1205,1252
+Ohio,25/04/2021,stepper,637,882
+Colorado,07/10/2021,rowing machine,1119,1207
+North Carolina,09/01/2024,squat rack,1357,671
+Texas,15/10/2023,squat rack,1232,567
+Missouri,26/08/2021,exercise bike,1031,1444
+Louisiana,22/02/2023,treadmill,1425,759
+Washington,25/04/2022,power rack,1227,1456
+Texas,22/01/2020,exercise bike,657,595
+Colorado,24/05/2020,stepper,1017,1463
+Texas,24/11/2023,elliptical,1478,741
+Indiana,27/05/2024,airbike,527,992
+Virginia,10/09/2019,airbike,1027,1341
+Virginia,07/01/2024,squat rack,551,1301
+California,12/05/2020,exercise bike,871,981
+Georgia,19/03/2023,power rack,984,1028
+District of Columbia,12/01/2021,power rack,1122,1453
+North Carolina,16/04/2024,exercise bike,887,1141
+Virginia,31/03/2021,power rack,653,851
+West Virginia,27/12/2020,elliptical,515,1371
+Oklahoma,09/06/2019,exercise bike,1156,1379
+Georgia,27/01/2020,squat rack,1312,1332
+Florida,10/03/2022,airbike,1068,700
+Ohio,09/04/2023,treadmill,917,1050
+New York,04/05/2022,elliptical,1411,1203
+Washington,22/10/2019,rowing machine,879,852
+Arizona,20/03/2022,squat rack,849,581
+Mississippi,29/08/2022,squat rack,1060,611
+Texas,22/11/2019,exercise bike,1464,521
+California,18/01/2023,elliptical,765,507
+South Carolina,22/01/2024,power rack,891,745
+Washington,02/10/2022,stepper,1418,1079
+Colorado,18/01/2021,exercise bike,541,1272
+Indiana,26/05/2021,airbike,858,542
+Massachusetts,27/03/2021,rowing machine,1333,757
+Michigan,07/03/2022,exercise bike,1026,1109
+Texas,16/07/2020,airbike,1035,583
+Massachusetts,11/03/2019,exercise bike,596,1313
+Arizona,15/06/2021,squat rack,658,1286
+Maryland,15/06/2023,elliptical,909,771
+Florida,13/10/2021,stepper,638,937
+Kentucky,23/02/2021,elliptical,655,1440
+Florida,07/08/2022,exercise bike,1053,1049
+Texas,24/10/2023,power rack,923,627
+District of Columbia,13/10/2022,stepper,824,951
+Florida,14/09/2022,squat rack,1187,747
+Florida,16/09/2019,squat rack,949,1006
+District of Columbia,16/06/2023,airbike,1497,581
+Illinois,31/05/2021,rowing machine,1245,551
+California,08/07/2021,elliptical,1004,527
+Georgia,25/10/2020,elliptical,1205,1114
+Georgia,07/12/2020,rowing machine,876,1013
+Alaska,22/11/2022,squat rack,702,1445
+Missouri,26/03/2019,exercise bike,1385,718
+Georgia,19/07/2021,elliptical,982,559
+Ohio,25/06/2021,power rack,1266,1182
+New Mexico,15/12/2023,elliptical,1096,805
+California,08/08/2023,rowing machine,1349,1129
+California,20/05/2022,treadmill,623,1086
+California,25/06/2023,exercise bike,893,738
+Louisiana,30/06/2023,treadmill,935,1109
+Oregon,05/01/2024,stepper,802,1457
+California,29/07/2023,exercise bike,544,1109
+Florida,26/09/2021,rowing machine,850,567
+New York,13/10/2023,stepper,1076,1325
+Oklahoma,21/11/2020,exercise bike,1128,903
+Minnesota,30/09/2020,rowing machine,1200,675
+Washington,09/06/2023,airbike,1398,773
+Iowa,25/05/2023,stepper,967,1226
+Michigan,05/08/2022,squat rack,1388,712
+California,22/06/2019,squat rack,1326,686
+Massachusetts,06/08/2020,squat rack,508,514
+Missouri,13/05/2019,stepper,708,610
+New Hampshire,29/06/2023,exercise bike,819,1297
+Texas,06/01/2020,exercise bike,1333,1334
+Ohio,25/02/2019,squat rack,1440,527
+California,02/04/2022,airbike,1352,1215
+California,12/10/2020,exercise bike,1273,1459
+Nevada,29/02/2024,elliptical,1141,787
+West Virginia,13/07/2021,exercise bike,845,1156
+Pennsylvania,14/02/2019,elliptical,522,509
+Texas,11/07/2023,rowing machine,1152,956
+California,11/02/2021,treadmill,1462,752
+Texas,18/05/2023,airbike,1349,509
+Massachusetts,09/12/2020,rowing machine,1073,657
+Pennsylvania,02/09/2020,airbike,576,741
+Arkansas,12/01/2020,elliptical,1130,519
+Ohio,25/08/2020,rowing machine,721,904
+Nebraska,19/11/2022,treadmill,572,827
+Nebraska,01/06/2020,squat rack,697,1231
+District of Columbia,21/01/2020,treadmill,1102,1198
+Louisiana,15/03/2021,rowing machine,1470,1424
+California,21/09/2023,elliptical,672,817
+Kansas,31/07/2021,airbike,1496,726
+New York,13/04/2022,power rack,1124,1155
+Florida,15/10/2021,elliptical,1417,651
+Connecticut,13/03/2023,airbike,1451,670
+Missouri,13/10/2019,rowing machine,1349,729
+Minnesota,18/10/2021,elliptical,1110,888
+District of Columbia,14/11/2023,elliptical,1161,1484
+Utah,06/09/2021,power rack,713,517
+New York,01/01/2022,stepper,794,969
+Kansas,27/05/2019,elliptical,730,919
+North Carolina,22/05/2023,airbike,1282,1230
+Florida,09/01/2019,airbike,1176,1202
+Minnesota,30/01/2022,treadmill,805,1251
+Ohio,12/01/2023,elliptical,997,864
+Arizona,29/06/2021,elliptical,1395,916
+Pennsylvania,09/04/2022,squat rack,987,685
+California,15/02/2024,power rack,1433,808
+Vermont,28/12/2019,stepper,650,941
+California,01/12/2019,squat rack,1230,1415
+Florida,06/02/2021,power rack,1139,746
+Texas,01/11/2020,airbike,1310,756
+District of Columbia,05/07/2023,airbike,757,974
+South Carolina,06/09/2020,exercise bike,1266,828
+Ohio,23/03/2024,exercise bike,625,1326
+Florida,28/09/2022,treadmill,1223,541
+Virginia,25/08/2020,elliptical,827,897
+Texas,17/11/2020,squat rack,714,1081
+Virginia,04/12/2021,rowing machine,821,1172
+California,12/12/2023,stepper,1497,736
+Texas,07/06/2023,treadmill,1231,575
+Texas,07/07/2020,airbike,1136,704
+Kentucky,28/11/2021,squat rack,812,1090
+Kentucky,25/07/2020,stepper,854,704
+Kentucky,02/08/2022,exercise bike,1318,1300
+Alaska,12/06/2019,rowing machine,858,986
+Kansas,23/07/2022,exercise bike,1030,591
+Kansas,22/10/2022,rowing machine,912,1099
+Nebraska,20/06/2021,rowing machine,963,1436
+Georgia,29/07/2022,exercise bike,634,625
+Tennessee,20/09/2023,power rack,665,618
+Utah,03/07/2021,exercise bike,1244,1006
+Virginia,02/04/2021,rowing machine,1198,1292
+Massachusetts,24/01/2024,squat rack,976,1100
+Texas,16/04/2021,rowing machine,749,781
+California,16/08/2022,rowing machine,1487,568
+Connecticut,25/01/2022,power rack,1320,903
+Georgia,07/10/2020,exercise bike,963,1435
+Pennsylvania,17/11/2020,rowing machine,800,618
+North Carolina,09/05/2020,elliptical,1021,1271
+California,21/03/2023,rowing machine,1156,761
+Georgia,17/01/2020,airbike,613,1412
+Kansas,30/10/2021,power rack,1248,1177
+Missouri,09/03/2019,exercise bike,1494,794
+California,06/02/2020,squat rack,675,1029
+Florida,12/03/2023,stepper,697,1247
+Missouri,20/10/2019,treadmill,1162,1401
+New Jersey,24/03/2019,airbike,928,864
+Pennsylvania,04/07/2021,exercise bike,1062,774
+California,30/04/2024,treadmill,1082,1098
+Pennsylvania,26/04/2024,rowing machine,1119,1219
+New York,15/01/2021,elliptical,1077,1222
+California,02/01/2019,stepper,620,876
+Tennessee,09/02/2019,rowing machine,808,986
+District of Columbia,25/02/2022,treadmill,1259,984
+Utah,23/08/2019,airbike,1458,1320
+California,17/10/2019,airbike,1217,714
+South Carolina,01/11/2022,rowing machine,814,1219
+Alabama,18/02/2019,rowing machine,1009,715
+California,05/04/2019,elliptical,763,1189
+Connecticut,10/09/2021,stepper,651,784
+Florida,11/04/2021,treadmill,695,642
+New York,03/08/2023,squat rack,772,1046
+California,09/10/2020,treadmill,871,890
+Indiana,11/02/2022,rowing machine,645,1356
+California,22/01/2022,exercise bike,550,930
+Ohio,29/08/2020,airbike,885,849
+Florida,11/02/2019,rowing machine,1210,878
+Indiana,03/05/2019,rowing machine,1445,1428
+Alabama,12/04/2024,squat rack,947,721
+Nebraska,10/09/2020,treadmill,697,1293
+California,13/01/2021,exercise bike,1284,840
+Kansas,31/07/2023,exercise bike,839,1424
+Montana,24/08/2022,stepper,986,1029
+New York,27/11/2023,power rack,1162,685
+Michigan,22/05/2023,stepper,750,1000
+Indiana,11/06/2020,airbike,1445,774
+Nebraska,10/02/2022,squat rack,796,869
+New York,08/03/2023,squat rack,715,1326
+Indiana,03/05/2021,treadmill,544,848
+Florida,04/08/2019,power rack,949,815
+Texas,02/09/2022,airbike,592,1301
+New Jersey,19/07/2022,power rack,1144,706
